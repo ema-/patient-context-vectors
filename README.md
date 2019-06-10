@@ -69,7 +69,7 @@ Execute:
 `python ards_clusters.py`
 
 
-### Script to generate cluster chart
+### Script to generate an ARDS clusters chart
 
 Execute:
 
