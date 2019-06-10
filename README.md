@@ -76,7 +76,7 @@ Execute:
 `python charts.py`
 
 
-### Script to train a network to predict Patient Context Vector from notes
+### Script to train a network to predict Patient Context Vectors from notes
 
 Set the following env variables
 
