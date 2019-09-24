@@ -1,4 +1,4 @@
-# Scripts to generate Patient Context Vectors and related ML models
+# Scripts to generate [Patient Context Vectors](aclweb.org/anthology/W19-5007/) and related ML models
 
 ```
 @article{apostolova2019combining,
